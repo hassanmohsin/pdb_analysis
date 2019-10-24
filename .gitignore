@@ -103,9 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-*.png
 pdb/
-plit-stable/
+plip-stable/
 launcher/
 analysis/
 
