@@ -1,7 +1,6 @@
 # PDB Analysis
 Pi-stacking and cation-pi interaction analysis of pdb data
 
-# Installation
 ## Dependencies
 * python 2.7
 * plip
