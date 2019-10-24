@@ -1,4 +1,4 @@
-# pdb_analysis
+# PDB Analysis
 Pi-stacking and cation-pi interaction analysis of pdb data
 
 # Installation
