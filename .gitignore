@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 pdb/
-plip-stable/
-launcher/
+#plip-stable/
+#launcher/
 analysis/
 
