@@ -1,6 +1,0 @@
-ipython[all]
-matplotlib==3.1.1
-numpy==1.17.3
-pandas==0.25.2
-seaborn==0.9.0
-tqdm==4.36.1
