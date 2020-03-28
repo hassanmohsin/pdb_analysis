@@ -1,0 +1,10 @@
+pdbid,int_type,residue,distance,angle,stack_type
+pdb3fbu,pi_stacking,PRO,4.1,20.88,P
+pdb3fbu,pi_stacking,PRO,4.83,20.94,P
+pdb1mnd,pi_stacking,PRO,4.56,60.18,T
+pdb1frw,pi_stacking,PRO,4.38,13.53,P
+pdb4ig6,pi_stacking,PRO,4.09,9.96,P
+pdb4ig6,pi_stacking,PRO,4.25,9.86,P
+pdb3ra4,pi_stacking,PRO,5.14,20.17,P
+pdb3ra4,pi_stacking,PRO,5.23,21.02,P
+pdb1wad,pi_stacking,PRO,4.42,61.16,T
